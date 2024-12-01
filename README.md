@@ -6,6 +6,6 @@ The purpose of the game is to see how fast a player can input a customer's pizza
 The order includes items like crust type, sause, toppings, and cheese. 
 
 **Tools**:
-This game was make originally in Codeblocks IDE, in C++.
+This game was made in C++.
 we used different data structures such as queues and hashmaps
 as well as libaries such as chrono and time.
